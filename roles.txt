@@ -1,0 +1,8 @@
+Kacper Kamiński: 
+    - manual do drukarki 3D
+
+Mateusz Szczęśniak:
+    - aplikacja do obsługi dyspozytora cieczy 
+
+Krzysztof Podoba:
+    - modelowanie części do dyspozytora cieczy 

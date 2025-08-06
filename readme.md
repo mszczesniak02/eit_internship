@@ -37,3 +37,4 @@ All documentation is provided in Polish and includes:
 ## Project Team
 
 **Kacper Kamiński**  |  **Krzysztof Podoba**  |  **Mateusz Szczęśniak**
+

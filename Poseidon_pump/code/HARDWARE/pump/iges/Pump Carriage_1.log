@@ -1,0 +1,45 @@
+﻿IGES to UG
+! INFO-     NX V2412.3001 / IGES Specification 5.3
+! INFO-      
+! INFO-     Start of Translation: 15-JUL-2025  11:31:01 AM
+! INFO-      
+! STATUS-   Converting Part: B:\win_files\pulpit\poseidon-release\HARDWARE\pump\iges\Pump Carriage.iges
+! SUMMARY-   
+! SUMMARY-  Summary of Supported IGES Entities in file
+! SUMMARY-   
+! SUMMARY-  Entity Type                    Count
+! SUMMARY-  -----------                    -----
+! SUMMARY-  B-Spline Curve (126/0-4).....:   269
+! SUMMARY-  B-Spline Surface (128/0-9)...:   111
+! SUMMARY-  Color Definition (314/0,1)...:     2
+! SUMMARY-  Name (406/15)................:     1
+! SUMMARY-  Manifold Solid B-Rep (186/0).:     1
+! SUMMARY-  Shell (514/*)................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                            385
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 15-JUL-2025 11:31:01 AM
+! STATUS-    
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-JUL-2025  11:31:01 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 1
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: B:\win_files\pulpit\poseidon-release\HARDWARE\pump\iges\Pump Carriage_1.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     7
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              8
+! INFO-      
+! INFO-     End of Translation: 15-JUL-2025  11:31:03 AM
+! INFO-      
